@@ -6,35 +6,35 @@ Respositório do projeto do curso Criando seu Primeiro Repositório no GitHUB pa
 
 
 
-### Comandos: 
+## Comandos: 
 
-#### cd
+### cd
 Acessa um determinado diretório.
 Exemplo: cd c:/windows/sytem32
 
-#### ..
+### ..
 Retorno no diretório acima
 Exemplo: se estamos no diretório "c:/windows/sytem32", ao usar o comando voltamos ao diretório "c:/windows"
 
-#### git clone link_do_repositório_gerao_do_pelo_site_do_github
+### git clone link_do_repositório_gerao_do_pelo_site_do_github
 Copia
 
-#### git status 
+### git status 
 Verifica o status das 
 
 git add . ou git add -A
 Adiciona os arquivos que fizemos no computador para o controle de versão do GitHub (LOCAL)
 
-#### git commit
+### git commit
 Adiciona os arquivos que fizemos no computador para o controle de versão do GitHub (ONLINE)
 
-#### git push origin main
+### git push origin main
 Envia os arquivos que foram comitados para o diretório online do GitHub -> é possível visualizar no site, por exemplo.
 
 
 
-### Instruções adicionais: 
+## Instruções adicionais: 
 
-#### -m
+### -m
 Inclui uma mensagem junto com um comando, por exemplo o commit.
 Exemplo: git commit -m "Inserir aqui a mensagem que deseja incluir"
