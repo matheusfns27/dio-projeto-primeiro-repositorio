@@ -16,10 +16,10 @@ Retorno no diretório acima
 Exemplo: se estamos no diretório "c:/windows/sytem32", ao usar o comando voltamos ao diretório "c:/windows"
 
 ### git clone link_do_repositório_gerao_do_pelo_site_do_github
-Copia
+Copia o repositório ONLINE para o seu computador (LOCAL)
 
 ### git status 
-Verifica o status das 
+Verifica o status do gitBash (o que foi feito e o que falta fazer por exxemplo)
 
 git add . ou git add -A
 Adiciona os arquivos que fizemos no computador para o controle de versão do GitHub (LOCAL)
