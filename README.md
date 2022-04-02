@@ -7,7 +7,6 @@ Respositório do projeto do curso Criando seu Primeiro Repositório no GitHUB pa
 
 
 ## Comandos: 
-
 ### cd
 Acessa um determinado diretório.
 Exemplo: cd c:/windows/sytem32
@@ -34,7 +33,6 @@ Envia os arquivos que foram comitados para o diretório online do GitHub -> é p
 
 
 ## Instruções adicionais: 
-
 ### -m
 Inclui uma mensagem junto com um comando, por exemplo o commit.
 Exemplo: git commit -m "Inserir aqui a mensagem que deseja incluir"
