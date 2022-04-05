@@ -21,7 +21,7 @@ Copia o repositório ONLINE para o seu computador (LOCAL)
 ### git status 
 Verifica o status do gitBash (o que foi feito e o que falta fazer por exxemplo)
 
-git add . ou git add -A
+### git add . ou git add -A
 Adiciona os arquivos que fizemos no computador para o controle de versão do GitHub (LOCAL)
 
 ### git commit
